@@ -1,2 +1,2 @@
-# pull-example
+# Pull Command
 Test pull command

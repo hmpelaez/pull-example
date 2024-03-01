@@ -1,2 +1,2 @@
-# Pull Command GIT
+# Pull Command (GIT)
 Test pull command
